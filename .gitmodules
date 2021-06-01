@@ -1,5 +1,5 @@
 [submodule "Heimdall"]
-	url = https://github.com/CoffeeBreak-Architecture/Heimdall/tree/docker-build
+	url = https://github.com/CoffeeBreak-Architecture/Heimdall.git
 [submodule "Huginn"]
 	url = https://github.com/CoffeeBreak-Architecture/Huginn
 [submodule "Yggdrasil"]
