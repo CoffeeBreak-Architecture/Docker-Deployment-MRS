@@ -3,7 +3,7 @@
 [submodule "Huginn"]
 	url = https://github.com/CoffeeBreak-Architecture/Huginn
 [submodule "Yggdrasil"]
-	url = https://github.com/CoffeeBreak-Architecture/Yggdrasil/tree/mrs-branch
+	url = https://github.com/CoffeeBreak-Architecture/Yggdrasil
 [submodule "Muninn"]
 	url = https://github.com/CoffeeBreak-Architecture/Muninn
 [submodule "Odin"]
