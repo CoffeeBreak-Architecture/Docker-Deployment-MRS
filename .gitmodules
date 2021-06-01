@@ -1,0 +1,12 @@
+[submodule "Heimdall"]
+	url = https://github.com/CoffeeBreak-Architecture/Heimdall/tree/docker-build
+[submodule "Huginn"]
+	url = https://github.com/CoffeeBreak-Architecture/Huginn
+[submodule "Yggdrasil"]
+	url = https://github.com/CoffeeBreak-Architecture/Yggdrasil/tree/mrs-branch
+[submodule "Muninn"]
+	url = https://github.com/CoffeeBreak-Architecture/Muninn
+[submodule "Odin"]
+	url = https://github.com/CoffeeBreak-Architecture/Odin
+[submodule "Sleipnir"]
+	url = https://github.com/CoffeeBreak-Architecture/Sleipnir
